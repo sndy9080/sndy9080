@@ -1,6 +1,6 @@
 <!-- ========== BANNER (file lokal: assets/banner.svg) ========== -->
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Sendy Tegar Mahendra - IoT and Systems Engineer | Smart Automation Specialist" />
+  <img src="assets/banner.svg" width="100%" alt="Sendy Tegar Mahendra - IoT and Systems Engineer | Smart Automation Enthusiast" />
 </p>
 
 <!-- ========== TYPING ANIMATION ========== -->
@@ -12,16 +12,16 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sendytegar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:sndy9080@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://app.notion.com/p/Portfolio-3d68df3bbbe4808ca254ee30ad84a26e"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio" /></a>
+  <a href="empty"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion Portfolio" /></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a final-year Informatics Engineering student passionate about building end-to-end technological solutions. I bridge physical infrastructure with data intelligence, specializing in IoT architectures, machine learning, and integrated smart systems.
+I'm a final-year Computer Engineering student passionate about building end-to-end technological solutions. I bridge physical infrastructure with data intelligence, specializing in IoT architectures, machine learning, and integrated smart systems.
 
-- 🎓 **Education:** Informatics Engineering at Universitas Muhammadiyah Karanganyar (Graduating 2026)
+- 🎓 **Education:** Computer Engineering at Universitas Muhammadiyah Karanganyar (Graduating 2026)
 - 💡 **Focus:** Internet of Things (ESP32/Arduino), Embedded C/C++, Network Infrastructure (LAN), and Data-Driven Automation
 - 🏆 **Achievement:** Holder of Intellectual Property Rights (HKI) for an Automated Waste Classification System
 - 🔭 **Currently working on:** Smart automation systems integrating ESP32, Firebase, and Flutter
@@ -32,15 +32,15 @@ I'm a final-year Informatics Engineering student passionate about building end-t
 
 <br>
 
-Saya mahasiswa tingkat akhir Teknik Informatika yang berfokus membangun solusi teknologi menyeluruh, dari perangkat keras hingga aplikasi dan data. Bidang saya mencakup arsitektur IoT, machine learning, dan sistem otomasi cerdas.
+Saya mahasiswa tingkat akhir Teknik Komputer yang berfokus membangun solusi teknologi menyeluruh, dari perangkat keras hingga aplikasi dan data. Bidang saya mencakup arsitektur IoT, machine learning, dan sistem otomasi cerdas.
 
 </details>
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack & Tools
 
-<p align="center"><sub>Klik logo untuk membuka situs resmi / dokumentasinya</sub></p>
+<!-- <p align="center"><sub>Klik logo untuk membuka situs resmi / dokumentasinya</sub></p> -->
 
 <p align="center"><b>🔌 Embedded &amp; IoT</b></p>
 <p align="center">
@@ -67,13 +67,13 @@ Saya mahasiswa tingkat akhir Teknik Informatika yang berfokus membangun solusi t
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table>
   <tr>
-    <th width="33%" align="left">🌱 Precision Automatic Feeding System</th>
-    <th width="33%" align="left">🏫 Smart Classroom Architecture</th>
-    <th width="33%" align="left">♻️ Automated Waste Classification</th>
+    <th width="33%" align="left">Precision Automatic Feeding System</th>
+    <th width="33%" align="left">Smart Classroom Architecture</th>
+    <th width="33%" align="left">Automated Waste Classification</th>
   </tr>
   <tr valign="top">
     <td>IoT-based chopped grass feeding system with a Double Stage Conveyor, ESP32, and Firebase RBAC.</td>
@@ -106,7 +106,7 @@ Saya mahasiswa tingkat akhir Teknik Informatika yang berfokus membangun solusi t
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sndy9080&layout=compact&langs_count=6&hide=jupyter%20notebook&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
@@ -122,5 +122,5 @@ Saya mahasiswa tingkat akhir Teknik Informatika yang berfokus membangun solusi t
 ---
 
 <p align="center">
-  <i>Let's build something smart together. 🤝</i>
+  <i>Let's build something smart together. </i>
 </p>
