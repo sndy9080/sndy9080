@@ -63,6 +63,8 @@ Saya mahasiswa tingkat akhir Teknik Komputer yang berfokus membangun solusi tekn
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
   <a href="https://www.tensorflow.org/"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" /></a>
   <a href="https://pandas.pydata.org/"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" /></a>
+  <a href="https://google.com"><img src="https://shields.io" alt="Google BigQuery" /></a>
+  <a href="https://tableau.com"><img src="https://shields.io" alt="Tableau" /></a>
 </p>
 
 ---
