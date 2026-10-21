@@ -5,7 +5,7 @@
 
 <!-- ========== TYPING ANIMATION ========== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2C9CDB&center=true&vCenter=true&width=600&lines=Building+end-to-end+smart+systems;ESP32+%7C+Flutter+%7C+Firebase;Open+to+IoT+%26+Embedded+roles" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2C9CDB&center=true&vCenter=true&width=650&lines=Bridging+Hardware+Infrastructure+%26+Data+Solutions;IoT+%26+Embedded+Systems+%7C+IT+Network+Infrastructure;Data+Analytics+%26+Machine+Learning+(NLP);Open+to+IoT%2C+IT+Infra+%26+Data+Analytics+Roles" alt="Typing animation" />
 </p>
 
 <!-- ========== KONTAK ========== -->
@@ -66,6 +66,7 @@ Saya mahasiswa tingkat akhir Teknik Komputer yang berfokus membangun solusi tekn
   <a href="https://cloud.google.com/bigquery"><img src="https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="Google BigQuery" /></a>
   <a href="https://www.tableau.com/"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" /></a>
   <a href="https://en.wikipedia.org/wiki/SQL"><img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" /></a>
+  <a href="https://huggingface.co/"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" /></a>
 </p>
 
 ---
